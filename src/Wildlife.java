@@ -1,5 +1,4 @@
-package edu.iastate.cs228.hw1;
-
+package wildlife
 import java.io.File;
 import java.io.FileNotFoundException; 
 import java.util.Scanner; 
