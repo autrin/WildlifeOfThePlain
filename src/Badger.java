@@ -1,5 +1,4 @@
-package edu.iastate.cs228.hw1;
-
+package wildlife
 /**
  *  
  * @author Autrin Hakimi
