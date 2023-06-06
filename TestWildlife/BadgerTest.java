@@ -1,12 +1,8 @@
-package edu.iastate.cs228.hw1test;
+package wildlife
 
 import static org.junit.Assert.assertEquals;
-
-
 import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
-
 import edu.iastate.cs228.hw1.Badger;
 import edu.iastate.cs228.hw1.Empty;
 import edu.iastate.cs228.hw1.Fox;
