@@ -1,4 +1,4 @@
-package edu.iastate.cs228.hw1test;
+package wildlife
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
