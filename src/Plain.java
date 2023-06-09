@@ -94,7 +94,7 @@ public class Plain
 	 */
 	public Plain(int w)
 	{
-		// TODO 
+
 		width = w;
 		grid = new Living[width][width];
 
@@ -106,7 +106,7 @@ public class Plain
 	 */
 	public int getWidth()
 	{
-		// TODO 
+
 		return width;
 	}
 
@@ -120,7 +120,6 @@ public class Plain
 	{
 		Random generator = new Random(); 
 
-		// TODO 
 		String arr[] = new String[5];
 		//"B", "F", "R", "G", "E"
 		arr[0] = "B";
@@ -161,7 +160,6 @@ public class Plain
 	 */
 	public String toString()
 	{
-		// TODO
 		String s = "";
 		for(int i = 0; i < width; i++) {
 			for(int j = 0; j < width; j++) {

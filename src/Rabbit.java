@@ -19,14 +19,14 @@ public class Rabbit extends Animal
 	 */
 	public Rabbit (Plain p, int r, int c, int a) 
 	{
-		// TODO 
+
 		super(p, r, c, a);
 	}
 		
 	// Rabbit occupies the square.
 	public State who()
 	{
-		// TODO  
+
 		return State.RABBIT; 
 	}
 	

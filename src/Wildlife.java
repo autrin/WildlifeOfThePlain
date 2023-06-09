@@ -42,8 +42,6 @@ public class Wildlife
 	public static void main(String[] args) throws FileNotFoundException
 	{	
 
-		// TODO 
-		// 
 		// Generate wildlife simulations repeatedly like shown in the 
 		// sample run in the project description. 
 		// 

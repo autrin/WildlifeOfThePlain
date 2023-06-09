@@ -25,7 +25,6 @@ public class Badger extends Animal
 	 */
 	public State who()
 	{
-		// TODO 
 		return State.BADGER; 
 	}
 

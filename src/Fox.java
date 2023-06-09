@@ -15,7 +15,6 @@ public class Fox extends Animal
 	 */
 	public Fox (Plain p, int r, int c, int a) 
 	{
-		// TODO 
 		super(p, r, c, a);
 	}
 
@@ -24,7 +23,6 @@ public class Fox extends Animal
 	 */
 	public State who()
 	{
-		// TODO 
 		return State.FOX; 
 	}
 
@@ -35,8 +33,6 @@ public class Fox extends Animal
 	 */
 	public Living next(Plain pNew)
 	{
-		// TODO 
-		// 
 		// See Living.java for an outline of the function. 
 		// See the project description for the survival rules for a fox. 
 		this.census(population);

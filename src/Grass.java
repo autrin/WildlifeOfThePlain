@@ -9,13 +9,11 @@ public class Grass extends Living
 {
 	public Grass (Plain p, int r, int c) 
 	{
-		// TODO 
 		super(p, r, c);
 	}
 
 	public State who()
 	{
-		// TODO  
 		return State.GRASS;
 	}
 
